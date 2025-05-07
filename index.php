@@ -1,6 +1,6 @@
 <?php
-// Sample PGP file
-$name = "Ms CNAS"
-$message = "Hello $name! Welcome to CNAS 1";
+// Sample PHP file
+$name = "Mr  <own student name> - CNAS";
+$message = "Hello, $name! CNAS has been changed.";
 echo $message;
 ?>
